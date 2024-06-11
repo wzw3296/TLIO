@@ -32,10 +32,3 @@ Using the test command, the output is under the dir:  /home/wzw/Desktop/imuProje
 At present, the results can show that short distance can be predicted and followed, long cannot.(You can see the test_outputs folder: view.png) 
 More command details can be found in the src/main_net.py, detail information see the refer paper and codes.
 
-
-python -m analysis.display_json \
---glob_dataset "../batch_filter_outputs_uf20/*/"
-
-# then run in the interactive session
-# plot_sysperf_cdf(d)
-```
