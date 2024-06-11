@@ -8,7 +8,7 @@ The whole project is under the server directory [SSH:128.122.136.173]:  /home/wz
 (Register a Unav ID first if you do not have)
 
 The best way to continue the project is to run and modify the code on the server.
-If you cannot access the server, only running on the local, please download the data [here](https://drive.google.com/file/d/10Bc6R-s0ZLy9OEK_1mfpmtDg3jIu8X6g/view?usp=share_link) additionaly and unzip it under the TLIO folder(the name golden-new-format-cc-by-nc-with-imus do not change). 
+If you cannot access the server, only running on the local, please download the data [here](https://drive.google.com/file/d/10Bc6R-s0ZLy9OEK_1mfpmtDg3jIu8X6g/view?usp=share_link) additionaly and unzip it under the TLIO folder(the name "golden-new-format-cc-by-nc-with-imus" do not change). 
 
 To initialize the project environment on the sever:
 
