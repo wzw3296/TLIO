@@ -1,9 +1,13 @@
 Important Notes:
+
 Paper: https://arxiv.org/abs/2007.01867
+
 The whole project is under the server directory [SSH:128.122.136.173]:  /home/wzw/Desktop/imuProject/TLIO
 (Register a Unav ID first if you do not have)
+
 If you can access the server, no need to download.   
-Otherwise, please download the data [here](https://drive.google.com/file/d/10Bc6R-s0ZLy9OEK_1mfpmtDg3jIu8X6g/view?usp=share_link) under the TLIO folder.
+
+Otherwise, please download the data [here](https://drive.google.com/file/d/10Bc6R-s0ZLy9OEK_1mfpmtDg3jIu8X6g/view?usp=share_link) and unzip it under the TLIO folder(the name golden-new-format-cc-by-nc-with-imus do not change).
 
 To initialize the project environment on the sever:
 
