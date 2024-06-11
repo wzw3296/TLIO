@@ -1,6 +1,7 @@
 Important Notes:
 
 Please read the paper: https://arxiv.org/abs/2007.01867 first
+
 Original github : https://github.com/CathIAS/TLIO
 
 The whole project is under the server directory [SSH:128.122.136.173]:  /home/wzw/Desktop/imuProject/TLIO
